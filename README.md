@@ -2,6 +2,10 @@
 
   It is a monitoring software prepared to monitor and see the details of crypto currencies.
 
+## Demo 
+
+[Crypto Currency Demo Home](https://atelliogludev.github.io/react-crypto-currencies-tracker/)
+
 ## Setup
 Dependencies need to be installed to run this application. To set up dependencies:
 > npm install
