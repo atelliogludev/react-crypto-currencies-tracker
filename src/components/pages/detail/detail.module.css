@@ -1,0 +1,55 @@
+.detailWrapper {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  background-color: #eceff1;
+}
+
+.detailTableWrapper {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: -135px;
+}
+
+.rateChart {
+  display: block;
+  width: 80%;
+  background: #fff;
+}
+
+.detailBackgroundWrapper {
+  background: linear-gradient(to right, rgb(63, 81, 181), rgb(100, 181, 246))
+    rgb(255, 255, 255);
+  text-align: center;
+  width: 100%;
+  height: 250px;
+  flex-direction: column;
+}
+
+.buttonWrapper {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+.buttonWrapper button {
+  display: inline-block;
+  width: 45px;
+  height: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  background-color: #18c683;
+  color: #fff;
+  text-align: center;
+  border: 0px none;
+  border-radius: 20px;
+}
+
+@media only screen and (max-width: 700px) {
+  .detailTableWrapper {
+    margin-top: -40px;
+  }
+}

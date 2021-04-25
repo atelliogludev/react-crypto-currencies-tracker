@@ -1,13 +1,19 @@
 {
-  "name": "react-criptocurrency-tracker",
+  "name": "react-crypto-currencies-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
+    "apexcharts": "^3.26.1",
+    "millify": "^3.5.2",
+    "moment": "^2.29.1",
     "react": "^17.0.2",
+    "react-apexcharts": "^1.3.9",
     "react-dom": "^17.0.2",
+    "react-moment": "^1.1.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },

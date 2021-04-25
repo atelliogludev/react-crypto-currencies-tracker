@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    flex: 1;
+    text-align: center;
+    background-color: #eceff1;
+    justify-content: center;
+    height: 60px;
+}
+
+.footerLink {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #b4b6b8;
+}
